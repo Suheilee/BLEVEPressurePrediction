@@ -210,7 +210,5 @@ Potential future improvements identified during the project include:
 
 **Module:** COMP3010 — Machine Learning
 **Project:** BLEVE Peak Pressure Prediction
-**Student:** Suheilee Amashki Samarasinghe
-**Student ID:** 22187972
 **Environment:** Google Colab
 **Task:** Machine learning prediction using physical simulation data
